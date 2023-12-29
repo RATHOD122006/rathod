@@ -1,0 +1,13 @@
+#Somnath{
+    background-image: url("https://www.gujaratpackage.com/wp-content/uploads/2023/09/Untitled-design7.png");
+    background-position: right;
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-attachment: fixed;
+
+}
