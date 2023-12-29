@@ -1,0 +1,16 @@
+#div{ background-image: url("https://media.istockphoto.com/id/1213718422/vector/lord-rama-with-his-wife-sita-and-brother-laxman-illustration.jpg?s=612x612&w=0&k=20&c=7HK6sk_ipDvWCOyKPpQe7oy3f-BnUWyeitPP_SjgfrA=");
+    background-position: right;
+    height: 1000px;
+    background-size: cover;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: white; 
+    background-attachment: fixed;; 
+} 
+ #tiv{
+     border: 5px solid black; 
+} 
+ #a{
+     text-align: center; color: black; text-decoration: none; border: 2px solid rgb(0, 0, 0); } #d{ border: 5px solid black; } #dd{ border: 5px solid black;  font-family: cursive;
+    }
